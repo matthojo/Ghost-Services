@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ page.title }}</title>
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+<link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap.css" >
+<link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+
+<link rel="shortcut icon" href="{{ site.url }}/assets/img/favicon.ico">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+
+</head>
+<body class="{{ page.bodyclass }}">
+
+<main id="main" role="main">
+
+<!--   <header>
+    <figure class="logo">
+      <img src="{{ site.url }}/assets/img/Ghost-Logo.png" />
+    </figure>
+  </header> -->
+    
+    {{ content }}
+</main>
+
+<footer class="footer">
+  <p>All code copyright (C) 2013 The Ghost Foundation - Released under the <a href="http://tryghost.org/about/license.html">MIT</a> License.<br />
+  All documentation is released under the Creative Commons <a href="http://creativecommons.org/licenses/by/3.0/">By-3.0</a> License.</p>
+</footer>
+<script src="{{ site.url }}/assets/js/jquery.js"></script>
+<script src="{{ site.url }}/assets/js/handlebars.js"></script>
+<script src="{{ site.url }}/assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+    "sites": [
+        {
+            "title": "Amazon AWS",
+            "URL": "http://aws.amazon.co.uk",
+            "setup": "http://www.howtoinstallghost.com/how-to-setup-an-amazon-ec2-instance-to-host-ghost-for-free/",
+            "verified": true
+        },
+        {
+            "title": "Windows Azure",
+            "URL": "http://www.windowsazure.com/",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-windows-azure/",
+            "verified": false
+        },
+        {
+            "title": "Heroku",
+            "URL": "https://heroku.com",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-heroku/",
+            "verified": false
+        },
+        {
+            "title": "WebFaction",
+            "URL": "http://www.webfaction.com/signup?affiliate=installghost",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-webfaction-hosting/",
+            "verified": false
+        },
+        {
+            "title": "Bluehost",
+            "URL": "http://www.bluehost.com/",
+            "setup": "http://www.howtoinstallghost.com/how-to-setup-bluehost-vps-for-ghost-blog/",
+            "verified": false
+        },
+        {
+            "title": "Dreamhost",
+            "URL": "http://www.dreamhost.com/",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-dreamhost/",
+            "verified": false
+        }
+    ]
+}
