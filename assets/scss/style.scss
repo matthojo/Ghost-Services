@@ -9,7 +9,8 @@ body {
     color: #3C4043;
 }
 header {
-	margin-top: 40px;
+    max-width: 900px;
+	margin: 40px auto 0;
     padding: 0 20px;
     text-align: center;
 }
@@ -18,9 +19,22 @@ header {
     text-align: center !important;
 }
 
+.note {
+    background: #D7E6ED;
+    border-radius: 3px;
+}
+
+p.note, div.note {
+    padding: 10px;
+}
+
+span.note {
+    padding: 2px;
+}
+
 #main {
     width: 980px;
-    margin: 50px auto 0;
+    margin: 25px auto 50px;
     background: #fff;
     table {
         width: 100%;
