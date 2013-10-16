@@ -1,3 +1,5 @@
+@import 'normalise';
+
 html {
     font: 62.5%/1.65 "Open Sans",sans-serif;
 }
@@ -10,6 +12,10 @@ header {
 	margin-top: 40px;
     padding: 0 20px;
     text-align: center;
+}
+
+.center {
+    text-align: center !important;
 }
 
 #main {

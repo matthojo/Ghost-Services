@@ -7,15 +7,15 @@
             "verified": true
         },
         {
+            "title": "Digital Ocean",
+            "URL": "https://www.digitalocean.com/",
+            "setup": "http://ghosted.co/install-ghost-digitalocean/",
+            "verified": true
+        },
+        {
             "title": "Windows Azure",
             "URL": "http://www.windowsazure.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-windows-azure/",
-            "verified": false
-        },
-        {
-            "title": "Heroku",
-            "URL": "https://heroku.com",
-            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-heroku/",
             "verified": false
         },
         {
@@ -34,6 +34,12 @@
             "title": "Dreamhost",
             "URL": "http://www.dreamhost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-dreamhost/",
+            "verified": false
+        },
+        {
+            "title": "Rackspace",
+            "URL": "http://www.rackspace.co.uk/",
+            "setup": "http://ghost.pellegrom.me/installing-ghost-on-ubuntu/",
             "verified": false
         }
     ]
