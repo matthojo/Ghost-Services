@@ -4,43 +4,65 @@
             "title": "Amazon AWS",
             "URL": "http://aws.amazon.co.uk",
             "setup": "http://www.howtoinstallghost.com/how-to-setup-an-amazon-ec2-instance-to-host-ghost-for-free/",
+            "support-level": "full",
             "verified": true
         },
         {
             "title": "Digital Ocean",
             "URL": "https://www.digitalocean.com/",
             "setup": "http://ghosted.co/install-ghost-digitalocean/",
+            "support-level": "full",
             "verified": true
         },
         {
             "title": "Windows Azure",
             "URL": "http://www.windowsazure.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-windows-azure/",
+            "support-level": "full",
             "verified": false
         },
         {
             "title": "WebFaction",
             "URL": "http://www.webfaction.com/signup?affiliate=installghost",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-webfaction-hosting/",
+            "support-level": "full",
             "verified": false
         },
         {
             "title": "Bluehost",
             "URL": "http://www.bluehost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-setup-bluehost-vps-for-ghost-blog/",
+            "support-level": "full",
             "verified": false
         },
         {
             "title": "Dreamhost",
             "URL": "http://www.dreamhost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-dreamhost/",
+            "support-level": "full",
             "verified": false
         },
         {
             "title": "Rackspace",
             "URL": "http://www.rackspace.co.uk/",
             "setup": "http://ghost.pellegrom.me/installing-ghost-on-ubuntu/",
+            "support-level": "full",
             "verified": false
+        },
+        {
+           "title": "Heroku",
+            "URL": "https://heroku.com",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-heroku/",
+            "support-level": "partial",
+            "verified": false
+        },
+        {
+            "title": "AppFrog",
+            "URL": "https://www.appfog.com/",
+            "setup": false,
+            "support-level": "none",
+            "verified": false
+
         }
     ]
 }
