@@ -7,7 +7,7 @@ If you would like to add your hosting or cloud service to the list, please follo
 
 * Fork this repository
 * Add in your service to the `services.json` file
-* Submit a Pull Request back to this repository
+* Submit a Pull Request back to this repository (`gh-pages` branch)
 
 The information will be then verified to make sure all is correct, and then merged in.
 

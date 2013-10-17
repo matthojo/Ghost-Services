@@ -71,6 +71,14 @@
             "support-level": "full",
             "verified": false
 
+        },
+        {
+            "title": "Kite",
+            "URL": "https://www.runkite.com/",
+            "setup": "https://www.runkite.com/ghost",
+            "support-level": "full",
+            "verified": false
+
         }
     ]
 }
