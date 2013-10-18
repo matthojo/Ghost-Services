@@ -79,6 +79,14 @@
             "support-level": "full",
             "verified": false
 
+        },
+        {
+            "title": "City Cloud",
+            "URL": "https://www.citycloud.com/",
+            "setup": false,
+            "support-level": "full",
+            "verified": false
+
         }
     ]
 }
