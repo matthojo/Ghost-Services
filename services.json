@@ -83,7 +83,7 @@
         {
             "title": "City Cloud",
             "URL": "https://www.citycloud.com/",
-            "setup": false,
+            "setup": "https://www.citycloud.com/city-cloud/selfhosted-ghost-blog/",
             "support-level": "full",
             "verified": false
 
