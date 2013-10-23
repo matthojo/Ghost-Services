@@ -4,6 +4,7 @@
             "title": "Amazon AWS",
             "URL": "http://aws.amazon.co.uk",
             "setup": "http://www.howtoinstallghost.com/how-to-setup-an-amazon-ec2-instance-to-host-ghost-for-free/",
+            "one-click": false,
             "support-level": "full",
             "verified": true
         },
@@ -11,6 +12,7 @@
             "title": "Digital Ocean",
             "URL": "https://www.digitalocean.com/",
             "setup": "http://ghosted.co/install-ghost-digitalocean/",
+            "one-click": true,
             "support-level": "full",
             "verified": true
         },
@@ -18,13 +20,15 @@
             "title": "Windows Azure",
             "URL": "http://www.windowsazure.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-windows-azure/",
+            "one-click": false,
             "support-level": "full",
             "verified": false
         },
         {
             "title": "WebFaction",
-            "URL": "http://www.webfaction.com/signup?affiliate=installghost",
-            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-webfaction-hosting/",
+            "URL": "http://www.webfaction.com/",
+            "setup": "http://blog.webfaction.com/2013/10/new-one-click-installers-node-js-and-ghost/",
+            "one-click": true,
             "support-level": "full",
             "verified": false
         },
@@ -32,6 +36,7 @@
             "title": "Bluehost",
             "URL": "http://www.bluehost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-setup-bluehost-vps-for-ghost-blog/",
+            "one-click": false,
             "support-level": "full",
             "verified": false
         },
@@ -39,6 +44,7 @@
             "title": "Dreamhost",
             "URL": "http://www.dreamhost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-dreamhost/",
+            "one-click": false,
             "support-level": "full",
             "verified": false
         },
@@ -46,6 +52,7 @@
             "title": "Rackspace",
             "URL": "http://www.rackspace.co.uk/",
             "setup": "http://ghost.pellegrom.me/installing-ghost-on-ubuntu/",
+            "one-click": false,
             "support-level": "full",
             "verified": false
         },
@@ -53,12 +60,14 @@
            "title": "Heroku",
             "URL": "https://heroku.com",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-heroku/",
+            "one-click": false,
             "support-level": "partial",
             "verified": false
         },
         {
             "title": "AppFrog",
             "URL": "https://www.appfog.com/",
+            "one-click": false,
             "setup": false,
             "support-level": "none",
             "verified": false
@@ -68,6 +77,7 @@
             "title": "Pogoapp",
             "URL": "https://www.pogoapp.com/",
             "setup": "https://en.ghost.org/forum/installation/1053-ghost-on-a-buildpack-enabled-paas-pogoapp-heroku-dokku-etc",
+            "one-click": false,
             "support-level": "full",
             "verified": false
 
@@ -76,6 +86,7 @@
             "title": "Kite",
             "URL": "https://www.runkite.com/",
             "setup": "https://www.runkite.com/ghost",
+            "one-click": true,
             "support-level": "full",
             "verified": false
 
@@ -84,6 +95,7 @@
             "title": "City Cloud",
             "URL": "https://www.citycloud.com/",
             "setup": "https://www.citycloud.com/city-cloud/selfhosted-ghost-blog/",
+            "one-click": true,
             "support-level": "full",
             "verified": false
 
