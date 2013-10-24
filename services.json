@@ -65,7 +65,7 @@
             "verified": false
         },
         {
-            "title": "AppFrog",
+            "title": "AppFog",
             "URL": "https://www.appfog.com/",
             "one-click": false,
             "setup": false,
@@ -76,7 +76,7 @@
         {
             "title": "Pogoapp",
             "URL": "https://www.pogoapp.com/",
-            "setup": "https://en.ghost.org/forum/installation/1053-ghost-on-a-buildpack-enabled-paas-pogoapp-heroku-dokku-etc",
+            "setup": "http://www.pogoapp.com/blog/posts/ghost-blog-in-one-click",
             "one-click": true,
             "support-level": "full",
             "verified": true
