@@ -77,9 +77,9 @@
             "title": "Pogoapp",
             "URL": "https://www.pogoapp.com/",
             "setup": "https://en.ghost.org/forum/installation/1053-ghost-on-a-buildpack-enabled-paas-pogoapp-heroku-dokku-etc",
-            "one-click": false,
+            "one-click": true,
             "support-level": "full",
-            "verified": false
+            "verified": true
 
         },
         {
