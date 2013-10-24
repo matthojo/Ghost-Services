@@ -97,7 +97,7 @@
             "setup": "https://www.citycloud.com/city-cloud/selfhosted-ghost-blog/",
             "one-click": true,
             "support-level": "full",
-            "verified": false
+            "verified": true
 
         }
     ]
