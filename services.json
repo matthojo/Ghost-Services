@@ -87,6 +87,14 @@
             "support-level": "full",
             "verified": false
 
+        },
+        {
+            "title": "GhostR",
+            "URL": "https://www.ghostr.org/",
+            "setup": "https://www.ghostr.org/",
+            "support-level": "full",
+            "verified": false
+
         }
     ]
 }
