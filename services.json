@@ -90,8 +90,8 @@
         },
         {
             "title": "GhostR",
-            "URL": "https://www.ghostr.org/",
-            "setup": "https://www.ghostr.org/",
+            "URL": "http://www.ghostr.org/",
+            "setup": false,
             "support-level": "full",
             "verified": false
 
