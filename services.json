@@ -99,6 +99,13 @@
             "support-level": "full",
             "verified": true
 
+        },
+        {
+            "title": "Ghoster",             
+            "URL": "http://ghoster.io",
+            "setup": false,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
