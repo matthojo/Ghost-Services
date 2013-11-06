@@ -61,7 +61,7 @@
             "URL": "https://heroku.com",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-heroku/",
             "one-click": false,
-            "support-level": "partial",
+            "support-level": "full",
             "verified": false
         },
         {
