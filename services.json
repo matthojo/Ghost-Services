@@ -111,7 +111,7 @@
             "title": "A Small Orange",
             "URL": "https://www.asmallorange.com/",
             "setup": "https://help.asmallorange.com/index.php?/Knowledgebase/Article/View/283/0/installing-ghost-033-with-a-mysql-database",
-            "one-click": false,
+            "one-click": true,
             "support-level": "full",
             "verified": false
         }
