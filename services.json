@@ -114,6 +114,14 @@
             "one-click": true,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Uberspace",
+            "URL": "https://uberspace.de/",
+            "setup": "https://uberspace.de/dokuwiki/cool:ghost",
+            "one-click": false,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
