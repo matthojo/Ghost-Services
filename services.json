@@ -101,7 +101,7 @@
 
         },
         {
-            "title": "Ghoster",             
+            "title": "Ghoster",
             "URL": "http://ghoster.io",
             "setup": false,
             "support-level": "full",
@@ -127,6 +127,14 @@
             "title": "OpenShift",
             "URL": "https://www.openshift.com/",
             "setup": "https://github.com/developercorey/openshift-ghost-quickstart",
+            "one-click": false,
+            "support-level": "full",
+            "verified": false
+        },
+        {
+            "title": "Nodejitsu",
+            "URL": "https://www.nodejitsu.com/",
+            "setup": "http://blog.nodejitsu.com/persistent-ghost-blogging",
             "one-click": false,
             "support-level": "full",
             "verified": false
