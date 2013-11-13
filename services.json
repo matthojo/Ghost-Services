@@ -122,6 +122,14 @@
             "one-click": false,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "OpenShift",
+            "URL": "https://www.openshift.com/",
+            "setup": "https://github.com/developercorey/openshift-ghost-quickstart",
+            "one-click": false,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
