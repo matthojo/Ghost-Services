@@ -101,7 +101,7 @@
 
         },
         {
-            "title": "Ghoster",             
+            "title": "Ghoster",
             "URL": "http://ghoster.io",
             "setup": false,
             "support-level": "full",
@@ -111,6 +111,14 @@
             "title": "A Small Orange",
             "URL": "https://www.asmallorange.com/",
             "setup": "https://help.asmallorange.com/index.php?/Knowledgebase/Article/View/283/0/installing-ghost-033-with-a-mysql-database",
+            "one-click": false,
+            "support-level": "full",
+            "verified": false
+        },
+        {
+            "title": "Nodejitsu",
+            "URL": "https://www.nodejitsu.com/",
+            "setup": "http://blog.nodejitsu.com/persistent-ghost-blogging",
             "one-click": false,
             "support-level": "full",
             "verified": false
