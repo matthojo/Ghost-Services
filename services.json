@@ -138,6 +138,13 @@
             "one-click": false,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Ghostify",
+            "URL": "http://ghostify.io/",
+            "one-click": true,
+            "support-level": "full",
+            "verified": true
         }
     ]
 }
