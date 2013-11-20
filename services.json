@@ -138,6 +138,14 @@
             "one-click": false,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Ghostify",
+            "URL": "http://ghostify.io/",
+            "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-ghostify/",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
