@@ -146,6 +146,14 @@
             "one-click": true,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Siteground",
+            "URL": "http://www.siteground.com/",
+            "setup": "http://www.siteground.com/ghost-hosting.htm",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
