@@ -126,8 +126,8 @@
         {
             "title": "OpenShift",
             "URL": "https://www.openshift.com/",
-            "setup": "https://github.com/developercorey/openshift-ghost-quickstart",
-            "one-click": false,
+            "setup": "https://www.openshift.com/quickstarts/ghost-on-openshift",
+            "one-click": true,
             "support-level": "full",
             "verified": false
         },
