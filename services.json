@@ -154,6 +154,14 @@
             "one-click": true,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Softaculous",
+            "URL": "http://www.softaculous.com/",
+            "setup": "http://www.softaculous.com/apps/blogs/Ghost",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
