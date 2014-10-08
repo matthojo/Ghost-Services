@@ -162,6 +162,14 @@
             "one-click": true,
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "Ghosted",
+            "URL": "http://ghosted.it/",
+            "setup": "http://ray.ghosted.it/2014/08/20/how-to-start-your-own-ghost-blog-with-ghosted/",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
