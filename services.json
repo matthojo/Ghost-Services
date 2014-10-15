@@ -9,14 +9,6 @@
             "verified": true
         },
         {
-            "title": "Arvixe",
-            "URL": "http://www.arvixe.com/",
-            "setup": "http://www.arvixe.com/ghost-hosting",
-            "one-click": true,
-            "support-level": "full",
-            "verified": false
-        },
-        {
             "title": "Digital Ocean",
             "URL": "https://www.digitalocean.com/",
             "setup": "http://ghosted.co/install-ghost-digitalocean/",
@@ -167,6 +159,14 @@
             "title": "Softaculous",
             "URL": "http://www.softaculous.com/",
             "setup": "http://www.softaculous.com/apps/blogs/Ghost",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
+        },
+        {
+            "title": "Arvixe",
+            "URL": "http://www.arvixe.com/",
+            "setup": "http://www.arvixe.com/ghost-hosting",
             "one-click": true,
             "support-level": "full",
             "verified": false
