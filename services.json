@@ -41,6 +41,14 @@
             "verified": false
         },
         {
+            "title": "RoseHosting.com",
+            "URL": "https://www.rosehosting.com/",
+            "setup": "https://www.rosehosting.com/blog/install-ghost-on-ubuntu-14-04/",
+            "one-click": true,
+            "support-level": "full",
+            "verified": false
+        },
+        {
             "title": "Dreamhost",
             "URL": "http://www.dreamhost.com/",
             "setup": "http://www.howtoinstallghost.com/how-to-install-ghost-on-dreamhost/",
